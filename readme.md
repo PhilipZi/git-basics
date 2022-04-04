@@ -37,4 +37,4 @@
 
 - `git clone + ssh link` = clones existing repository to vcs to work on
 - `git fetch` = searches for changes in cloud
-- `git -d + <branchname>`= deletes a branch
+- `git branch -d + <branchname>`= deletes a branch
