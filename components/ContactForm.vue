@@ -12,7 +12,7 @@
       <label for="message" class="block">Nachricht:</label>
       <textarea id="message" class="w-full p-2 border rounded"></textarea>
     </div>
-    <button type="submit" class="bg-green-600 text-white p-2 rounded">
+    <button type="submit" class="bg-gf_green text-white p-2 rounded">
       Senden
     </button>
   </form>

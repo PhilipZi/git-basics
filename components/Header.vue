@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-green-600 text-white p-4">
+  <header class="bg-gf_green text-white p-4">
     <div class="container mx-auto flex justify-between items-center">
       <h1 class="text-3xl font-bold">Gartenfuchs</h1>
       <nav>
